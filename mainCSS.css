@@ -9,7 +9,14 @@
 
 ul *{
     color: #ffffff;
+    list-style:none;
 }
+
+ol *{
+    color: #ffffff;
+    list-style:none;
+}
+
 
 html {
     font-family: Poppins;
